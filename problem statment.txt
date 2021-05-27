@@ -1,0 +1,18 @@
+The candidate is expected to crawl data from ONE of the below sources by any means and then perform sentiment analysis and extract insights as given below.
+
+Sources: (choose any one of your choice)
+1) https://www.amazon.in/Panasonic-Inverter-Copper-CS-CU-NU18WKYW/dp/B084365NVF
+2) https://www.amazon.in/product-reviews/B083J8JKG3/
+3) https://apps.apple.com/in/app/panasonic-MirAIe/id1489973731
+4) https://www.youtube.com/watch?v=XYDtnzACPmk
+5) https://play.google.com/store/apps/details?id=com.panasonic.in.miraie
+
+Sentiments & Insights:
+1) Postive vs Negative sentiments % split and Neutral split
+2) What problems are commonly faced?
+3) What did customers like?
+4) Word cloud of most mentioned words
+
+We expect the candidate to take a couple of days or so and then share the finished code/jupyter notebook/etc and appear for a 30-45 mins discussion to go over his/her findings.
+
+
